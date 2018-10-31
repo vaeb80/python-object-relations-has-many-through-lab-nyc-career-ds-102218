@@ -1,0 +1,14 @@
+[
+  "test/index_test.py::TestOneToManyRelationships::test_artist_instance_methods",
+  "test/index_test.py::TestOneToManyRelationships::test_artist_property_methods",
+  "test/index_test.py::TestOneToManyRelationships::test_driver_instance_methods",
+  "test/index_test.py::TestOneToManyRelationships::test_driver_property_methods",
+  "test/index_test.py::TestOneToManyRelationships::test_genre_instance_methods",
+  "test/index_test.py::TestOneToManyRelationships::test_genre_property_methods",
+  "test/index_test.py::TestOneToManyRelationships::test_passenger_instance_methods",
+  "test/index_test.py::TestOneToManyRelationships::test_passenger_property_methods",
+  "test/index_test.py::TestOneToManyRelationships::test_song_class_method",
+  "test/index_test.py::TestOneToManyRelationships::test_song_property_methods",
+  "test/index_test.py::TestOneToManyRelationships::test_trip_class_method",
+  "test/index_test.py::TestOneToManyRelationships::test_trip_property_methods"
+]
